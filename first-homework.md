@@ -16,5 +16,12 @@ to write it from scratch to gain the experience.
   - I got the logo font pretty close I think, but the search bar text is noticeably off.
   - I think I did ok with the logos in the Header. That Connect button was a little strange
     with the little wisp(?idk if that is the right word)
-- Here's a link to what I have so far. If you have any suggestions, tips anything let me know :)
-  [Dev.to Figma Design page](https://www.figma.com/file/QSKvMdtWPvWVPGRmptFSAw/dev.to?node-id=34%3A11)
+
+### 07/02/2020
+
+Working on the icons I made yesterday for the Header. Ended up refactoring them all.
+Was unable to get much done. Left off working on left side bar
+
+## Here's a link to what I have so far. If you have any suggestions, tips anything let me know :)
+
+[Dev.to Figma Design page](https://www.figma.com/file/QSKvMdtWPvWVPGRmptFSAw/dev.to?node-id=34%3A11)
